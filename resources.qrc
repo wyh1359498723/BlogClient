@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>icons/new.png</file>
+        <file>icons/open.png</file>
+        <file>icons/save.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/publish.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/sync.png</file>
+        <file>icons/settings.png</file>
+    </qresource>
+</RCC> 
